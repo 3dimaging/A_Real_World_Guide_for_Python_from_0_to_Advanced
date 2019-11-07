@@ -52,7 +52,13 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 #### 
 
-## step 5: specialized areas
+## step 5: Objective Oriented Programming
+
+### basic rules
+
+### magic functions
+
+## step 6: specialized areas
 
 ### Data Science
 
@@ -60,7 +66,7 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 ### Machine Learning
 
-## step 6: ramp up a package
+## step 7: ramp up a package
 
 ### Documentation Tools
 
