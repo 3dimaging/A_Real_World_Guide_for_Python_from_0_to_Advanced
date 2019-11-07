@@ -8,6 +8,10 @@ Active vs. Passive learning
 
 ### material to read
 
+### the best way to learn python
+
+First, find a piece of code online, then type in all the lines on your computer, and check the results.
+
 ### know well the function "print()"
 
 ## step 2: if...else...
@@ -39,6 +43,14 @@ Active vs. Passive learning
 ### Find a handy IDE
 
 ### Good habits for coding
+
+### Get familiar with commond modules
+
+#### sys
+
+#### re
+
+#### 
 
 ## step 5: specialized areas
 
