@@ -1,6 +1,6 @@
 # A_Real_World_Guide_for_Python_from_0_to_Advanced
 
-The real world of python learner:
+The real world of python learner: you may have only 30 min per day to learn Python programming. It is quite often that sometimes you may not have no time at all.
 
 Active vs. Passive learning
 
@@ -51,14 +51,15 @@ First, find a piece of code online, then type in all the lines on your computer,
 #### re
 
 #### 
+## step 5: Building block accumulation
 
-## step 5: Objective Oriented Programming
+## step 6: Objective Oriented Programming
 
 ### basic rules
 
 ### magic functions
 
-## step 6: specialized areas
+## step 7: specialized areas
 
 ### Data Science
 
@@ -66,7 +67,7 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 ### Machine Learning
 
-## step 7: ramp up a package
+## step 8: ramp up a package
 
 ### Documentation Tools
 
