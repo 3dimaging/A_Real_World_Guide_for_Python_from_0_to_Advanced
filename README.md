@@ -1,16 +1,18 @@
 # A_Real_World_Guide_for_Python_from_0_to_Advanced
 
-The real world of python learner: you may have only 30 min per day to learn Python programming. It is quite often that sometimes you may not have no time at all. When you have time to go back where you left, you will find you forget everything. Because of the working load, family duties and other unexpected staff to deal with, you can be at the entry level after a year learning and have to start over again.
+The real world of python learner: you may have only 30 min per day to learn Python programming. It is quite often that sometimes you may not have no time at all. When you have time to go back where you left, you will find you forget everything. Because of the working load, family duties and other unexpected staff to deal with, you can be still at the entry level after a year of learning and have to start over again.
 
 This tutorial is to help you to break the strange cycle and really improve your programming skill through the journely of mastering Python.
 
-First, I want to mention something important, but you may not pay attention to.
+First, I want to mention something important, but you may not pay attention to before reading this tutorial.
 
 Active vs. Passive learning
 
   
 
 ## step 1: get to know Python
+
+"Everything is an Object." --- Don't be fooled. That just means using "." in your code. Forget object now. 
 
 ### material to read
 
