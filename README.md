@@ -8,13 +8,32 @@ First, I want to mention something important, but you may not pay attention to b
 
 Active vs. Passive learning
 
-  
+The framework of Knowledge is more important than the Knowledge itself. 
+
+
+## step 0: basic setup
+
+### create an account on https://stackoverflow.com
+
+    This is a website you will visit everyday. This is an important website to ask any question. The answers are usually already there.
+    The only thing you need to do is Google your question.
+    
+### create an OneNote or Evernote account.
+
+    Then have their clippers installed to your web browser. If you find your anwser on web, save it by the clippers
+    
+### have a notebook (paper or electronic) to write down what you know and you need to know.
+
+    At the begining, you may just write down some keywords in your brain. later on, you will write down the knowledge tree to show the
+    connections of the key words to each other. 
+    
 
 ## step 1: get to know Python
 
 "Everything is an Object." --- Don't be fooled. That just means using "." in your code. Forget object now. 
 
 ### material to read
+
 
 ### the best way to learn python
 
