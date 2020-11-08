@@ -6,9 +6,17 @@ This tutorial is to help you to break the strange cycle and really improve your 
 
 First, I want to mention something important, but you may not pay attention to before reading this tutorial.
 
-Active vs. Passive learning
+- Active vs. Passive learning
 
-The framework of Knowledge is more important than the Knowledge itself. 
+    Active learning is to explore this field by yourself. You keep asking yourself questions and try to find the answer over internet and take notes.
+    
+    Passive learning is to follow the teachers to learn what you should learn, but do not ask why you should learn.
+
+- The framework of Knowledge is more important than the Knowledge itself. 
+
+    The framework is the basic structure of a course or field. It is quite obvious for the people with special training in the field. However, if a layman want to learn this field by himself, to build the framework is the most important part.
+    
+    To do this, try to focus on some simple books with knowleges well organized. I may also want to follow this post. The aim of this post also try to build the framework, but at the same time I will point out the difficult and important knowleges for python programming.
 
 
 ## step 0: basic setup
