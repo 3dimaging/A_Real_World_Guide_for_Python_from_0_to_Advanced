@@ -42,6 +42,7 @@ First, I want to mention something important, but you may not pay attention to b
 
 ### material to read
 
+Two books: "Python Fundamentals" and "algorithm in python".
 
 ### the best way to learn python
 
@@ -61,6 +62,8 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 ## step 3: the three founding pillars of Python
 
+At this section, please read the book, "Python for Data Analysis".
+
 ### Numpy
 
 #### material to read
@@ -79,7 +82,7 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 ### Good habits for coding
 
-### Get familiar with commond modules
+### Get familiar with common modules
 
 #### sys
 
@@ -89,6 +92,10 @@ First, find a piece of code online, then type in all the lines on your computer,
 ## step 5: Building block accumulation
 
 Programming is like building Legos. You have lots of building units and use them to make a castle, car or anything you think is cool. But the building units are the same. Programming follows the same logic. So what's the building unit for Python programming? 
+
+The bulding blocks are the samll functions to realize something specific. For example, we need to get a list of files with their absolute paths. We will create a simple function to realize it or you find it on Overflow. Write it down as your reference in the future. You need to come back to review it and make it better when you need it in your projects.
+
+A good starting point is to read a book, "Python Cookbook" and digest it and take your notes for future use.
 
 ## step 6: Objecte Oriented Programming
 
