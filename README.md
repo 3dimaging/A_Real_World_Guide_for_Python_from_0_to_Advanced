@@ -17,6 +17,10 @@ First, I want to mention something important, but you may not pay attention to b
     The framework is the basic structure of a course or field. It is quite obvious for the people with special training in the field. However, if a layman want to learn this field by himself, to build the framework is the most important part.
     
     To do this, try to focus on some simple books with knowleges well organized. I may also want to follow this post. The aim of this post also try to build the framework, but at the same time I will point out the difficult and important knowleges for python programming.
+    
+- The best website to learn python (highly recommend)
+
+    https://www.python-course.eu/
 
 
 ## step 0: basic setup
@@ -42,23 +46,44 @@ First, I want to mention something important, but you may not pay attention to b
 
 ### material to read
 
-Two books: "Python Fundamentals" and "algorithm in python".
+Two books: "PFundamentals of Python Programming" and "An introduction of computation and programming in python".
+
+- https://cs.appstate.edu/~rmp/cs2435/pythonbook.pdf
+- https://www.amazon.com/exec/obidos/ASIN/0262529629/ref=nosim/mitopencourse-20
+ 
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm
 
 ### the best way to learn python
 
-First, find a piece of code online, then type in all the lines on your computer, and check the results.
+First, find a piece of code online, then type in all the lines on your computer, and check the results. Yes, just copy others' codes. During copying, you will gradually understand the logic behind it. Don't just copy and paste, actually type all the code by yourself.
 
 ### know well the function "print()"
 
-## step 2: if...else...
+## step 2: Data structure and loop
 
 ### set up Python environment
+
+### Data structure
+
+- list
+- array
+- dictionary
+- string
 
 ### if...else...
 
 ### for loop
 
+### function
+
 ### the common mistakes
+
+- The common mistakes here is the indent, which affect the scope of a loop. It is easy to make a loop run forever by a mistaken indent.
+- Get confused by the scope of variables outside a function and inside a function.
+
+### the hard part
+
+- string is hard to master at this stage. this part include lots of manipulation of string, which is quite common in daily work.
 
 ## step 3: the three founding pillars of Python
 
@@ -80,6 +105,12 @@ At this section, please read the book, "Python for Data Analysis".
 
 ### Find a handy IDE
 
+- Pycharm
+
+- Vscode
+
+- Emacs
+
 ### Good habits for coding
 
 ### Get familiar with common modules
@@ -88,7 +119,8 @@ At this section, please read the book, "Python for Data Analysis".
 
 #### re
 
-#### 
+#### os
+
 ## step 5: Building block accumulation
 
 Programming is like building Legos. You have lots of building units and use them to make a castle, car or anything you think is cool. But the building units are the same. Programming follows the same logic. So what's the building unit for Python programming? 
