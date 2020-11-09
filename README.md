@@ -105,11 +105,17 @@ At this section, please read the book, "Python for Data Analysis".
 
 ### Find a handy IDE
 
+- Jupyter Notebook
+   Everybody uses it.
+
 - Pycharm
+  Very good ide but it can easily slow down my i7 workstation
 
 - Vscode
+  Lightweight, but powerful. recommend
 
 - Emacs
+  The only drawback of Emacs is too much power. It is such a powerful editor that people find it hard to handle. We only want to drive a car to New York, it gives us an airplane. It will take 5 years to learn to fly, but we only need 5 months to learn driving a car.
 
 ### Good habits for coding
 
