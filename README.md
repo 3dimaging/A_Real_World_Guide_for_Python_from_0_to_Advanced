@@ -65,10 +65,10 @@ First, find a piece of code online, then type in all the lines on your computer,
 
 ### Data structure
 
-- list
-- array
-- dictionary
-- string
+- list: list slice
+- array: array slice, multi-dimension arrays
+- dictionary: easy to use, not important
+- string: the most hard part, please learn how to use regular expression.
 
 ### if...else...
 
@@ -119,7 +119,7 @@ At this section, please read the book, "Python for Data Analysis".
 
 ### Good habits for coding
 
-#### Before writing code, write down the plan in words/sentences (e.g., algorithm)
+#### 1. Before writing code, write down the plan in words/sentences (e.g., algorithm)
 A code snippet or a big applications can be divided into small pieces with each piece realzing a small function. Like lego, put the small pieces together.
 
 - First, write down the goal
@@ -129,23 +129,23 @@ A code snippet or a big applications can be divided into small pieces with each 
 You do not need to realized all the functions at once. Instead, you can pretend others are finished, just focus on one function each time and test each function when finished. 
 Then put them together.
 
-#### When you write your code, write down what you thought, what needs to be done.
+#### 2. When you write your code, write down what you thought, what needs to be done.
 
 Put some TODO label in the code when you write the code. Some important ideas come when you actuall write code.
-#### Add code headers to show the authors, date created, purpose the code, variables, notes, copy right, coding (UTF-8) etc.
-#### Add annotations for all the variables (type), functions (input, output), classes
-#### Code body needs to include the following
-##### Progress bar or time estimation for a function needs lots of time
-##### Design the error capture (Try )
-##### Speed up the procedure by parallel the function like multiprocessing
-##### Setup log files
-##### Check the vulnerability or rubustness of the code by designing all the possible test data.
-##### Use "Assert" to do testing or other methods for testing.
+#### 3. Add code headers to show the authors, date created, purpose the code, variables, notes, copy right, coding (UTF-8) etc.
+#### 4. Add annotations for all the variables (type), functions (input, output), classes
+#### 5. Code body needs to include the following
+##### 5.1 Progress bar or time estimation for a function needs lots of time
+##### 5.2 Design the error capture (Try )
+##### 5.3 Speed up the procedure by parallel the function like multiprocessing
+##### 5.4 Setup log files
+##### 5.5 Check the vulnerability or rubustness of the code by designing all the possible test data.
+##### 5.6 Use "Assert" to do testing or other methods for testing.
 
-#### When some results need to be saved.
-##### Always has a timestamp for the results. Otherwise, the saved results can be overided when run the code multiple times.
-##### Give a consistent name for the file. It is good to include to include some global variables to the name.
-##### Put the results in an organized folder.
+#### 6. When some results need to be saved.
+##### 6.1 Always has a timestamp for the results. Otherwise, the saved results can be overided when run the code multiple times.
+##### 6.2 Give a consistent name for the file. It is good to include to include some global variables to the name.
+##### 6.3 Put the results in an organized folder.
 
 ### Get familiar with common modules
 
